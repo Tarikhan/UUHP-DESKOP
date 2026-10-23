@@ -1,0 +1,6 @@
+{
+  "name": "OptiPDF Desktop - Batch PDF Compressor",
+  "description": "High-performance desktop batch PDF compressor and optimizer. Compress multiple PDF files simultaneously with adjustable compression presets, DPI downsampling, grayscale conversion, and batch export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
